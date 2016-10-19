@@ -19,7 +19,7 @@ const (
 	// ContentHTML header value for HTML data.
 	ContentHTML = "text/html"
 	// ContentJSON header value for JSON data.
-	ContentJSON = "application/json"
+	ContentJSON = "application/vnd.api+json"
 	// ContentJSONP header value for JSONP data.
 	ContentJSONP = "application/javascript"
 	// ContentLength header constant.
